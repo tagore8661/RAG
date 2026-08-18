@@ -1,0 +1,14 @@
+# Notebook and configuration
+jupyter
+python-dotenv
+
+# Direct RAG implementation
+openai
+tiktoken
+chromadb
+
+# Optional framework comparison in the final section
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
