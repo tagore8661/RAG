@@ -1,0 +1,18 @@
+
+10th_School: Z.P.H.S Beluguppa
+10th_Start_Date: June-2018
+10th_End_Date: May-2019
+10th_Grade: 87%
+
+Intermediate_College: Nalanda Residential Junior College, Anantapur
+Intermediate_Field: MPC
+Intermediate_Start_Date: June-2019
+Intermediate_End_Date: July-2021
+Intermediate_Grade: 86%
+
+BTech_Institution: GATES Institute of Technology, Gooty
+BTech_Field: Computer Science (Data Science)
+BTech_Start_Date: Nov-2021
+BTech_End_Date: May-2025
+BTech_Grade: 8.54 CGPA
+

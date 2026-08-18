@@ -1,0 +1,9 @@
+FullName: TAGORE GANUGA
+GivenName: TAGORE
+Surname: GANUGA
+FatherName: THIPPAIAH
+MotherName: RAMANAMMA
+DateOfBirth: 01/08/2004
+Address: Beluguppa, Anantapur
+Phone: 93XXXXXX03
+Email: tagore8661@gmail.com
